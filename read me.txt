@@ -1,2 +1,2 @@
 Git is a 12321 control system.
-Git is free software.
+Git is free software gcl.
